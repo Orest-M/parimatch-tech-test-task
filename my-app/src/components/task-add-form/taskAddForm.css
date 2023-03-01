@@ -1,0 +1,37 @@
+.form-div {
+  margin-left: 50px;
+  margin-top: 50px;
+}
+
+.form-div form {
+  display: flex;
+  flex-direction: column;
+}
+
+.form-div__label {
+  font-weight: 700;
+  margin-bottom: 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.form-div__input {
+  width: 170px;
+  padding: 5px;
+}
+
+.form-div__input.error {
+  border-color: red;
+}
+
+.form-div__submit {
+  width: 100px;
+  padding: 5px 0;
+  cursor: pointer;
+}
+
+.err-span {
+  color: red;
+  font-weight: normal;
+}

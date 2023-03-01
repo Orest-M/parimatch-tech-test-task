@@ -1,0 +1,15 @@
+table {
+  margin-left: 50px;
+  margin-top: 50px;
+  border-collapse: collapse;
+}
+
+thead {
+  background-color: #a1a1a1;
+}
+
+th {
+  text-align: center;
+  width: 150px;
+  height: 30px;
+}
