@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/parimatch-tech-test-task/static/css/main.7dfee57c.css",
+    "main.js": "/parimatch-tech-test-task/static/js/main.de5861a2.js",
+    "index.html": "/parimatch-tech-test-task/index.html",
+    "main.7dfee57c.css.map": "/parimatch-tech-test-task/static/css/main.7dfee57c.css.map",
+    "main.de5861a2.js.map": "/parimatch-tech-test-task/static/js/main.de5861a2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dfee57c.css",
+    "static/js/main.de5861a2.js"
+  ]
+}
